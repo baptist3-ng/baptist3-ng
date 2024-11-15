@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Welcome !
 
-<!--
-**baptist3-ng/baptist3-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **computer science** student 📚, passionate about **cybersecurity** 🔐, and self-learning to become a **penetration tester**.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills:
+- **Systems** : Kali Linux, Exegol 🔱
+- **Tools** : Nmap, BurpSuite, Metasploit, SysReptor, ... 🛠️
+- **CTF** 🏆 (solving cybersecurity challenges) 
+
+<br>
+
+## 🎓 Certifications:
+- **eJPTv2** (eLearnSecurity Junior Penetration Tester) in 2024 🎓
+
+<br>
+
+## 🌐 Where to find me:
+- **[Hack The Box](https://app.hackthebox.com/profile/356950)** 💻
+- **[TryHackMe](https://tryhackme.com/r/p/baptist3)** 🌐
+- **[Root-ME](https://www.root-me.org/baptist3)** 🏅
+- **[GitHub](https://github.com/baptist3-ng)** :octocat:
+
+<br>
+
+## 📩 Contact:
+- **LinkedIn -> Coming Soon !** 🔗
