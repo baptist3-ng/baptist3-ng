@@ -4,19 +4,19 @@ I'm a **computer science** student 📚, passionate about **cybersecurity** 🔐
 
 <br>
 
-## 💻 Skills:
+### 💻 Skills:
 - **Systems** : Kali Linux, Exegol 🔱
 - **Tools** : Nmap, BurpSuite, Metasploit, SysReptor, ... 🛠️
 - **CTF** 🏆 (solving cybersecurity challenges) 
 
 <br>
 
-## 🎓 Certifications:
+### 🎓 Certifications:
 - **eJPTv2** (eLearnSecurity Junior Penetration Tester) in 2024 🎓
 
 <br>
 
-## 🌐 Where to find me:
+### 🌐 Where to find me:
 - **[Hack The Box](https://app.hackthebox.com/profile/356950)** 💻
 - **[TryHackMe](https://tryhackme.com/r/p/baptist3)** 🌐
 - **[Root-ME](https://www.root-me.org/baptist3)** 🏅
@@ -24,5 +24,5 @@ I'm a **computer science** student 📚, passionate about **cybersecurity** 🔐
 
 <br>
 
-## 📩 Contact:
+### 📩 Contact:
 - **LinkedIn -> Coming Soon !** 🔗
