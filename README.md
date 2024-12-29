@@ -3,7 +3,7 @@
 I'm a **computer science** student 📚, passionate about **cybersecurity** 🔐, and self-learning to become a **penetration tester**.
 
 ### 💻 Skills:
-- **Systems** : Kali Linux, Exegol 🔱
+- **Pentesting environment** : Kali Linux, Exegol 🔱
 - **Tools** : Nmap, BurpSuite, Metasploit, SysReptor, ... 🛠️
 - **CTF** 🏆 (solving cybersecurity challenges) 
 
