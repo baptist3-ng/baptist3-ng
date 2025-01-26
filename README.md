@@ -8,7 +8,7 @@ I'm a **computer science** student 📚, passionate about **cybersecurity** 🔐
 - **CTF** 🏆 (solving cybersecurity challenges) 
 
 
-### 🎓 Certifications:
+### 🎓 Certification:
 - **eJPTv2** (eLearnSecurity Junior Penetration Tester) in 2024 🎓
 
 
